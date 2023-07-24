@@ -12,5 +12,8 @@ Please read this section carefully since it limits the liability of the "One Pie
 ## Is there any data stored?
 No, data is being stored. The app does not collect analytics data and doesn't story any inputs you would enter in it. It's only a simple quiz app to test knowledge of One Piece.
 
+## I have a question about the app
+If you have a question about this privacy and how your user input is used when you use "One Piece Quiz App". Please feel free to email me at montanabraswell1@gmail.com with the subject line "App question" and let me know how I can help you.
+
 ## Changes and Updates
 If "One Piece Quiz App" makes changes to Terms and Conditions or Privacy Policy, these changes will be posted on this page in a timely manner. We reserve the right to modify these terms & conditions and/or privacy policy at any time, so please review it frequently (at least on every app update).- Privacy Policy and Terms and Conditions. 
